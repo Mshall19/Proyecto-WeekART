@@ -26,7 +26,7 @@ header {
 }
 
 .logo {
-    color: #e60023;
+    color: #0058D4;
     font-weight: bold;
     font-size: 24px;
     text-decoration: none;
@@ -72,7 +72,7 @@ header {
 }
 
 .btn-primary {
-    background-color: #e60023;
+    background-color: #0058D4;
     color: white;
     border: none;
 }
@@ -84,7 +84,7 @@ header {
 }
 
 .weekly-banner {
-    background: linear-gradient(to right, #e60023, #9b4dca);
+    background: linear-gradient(to right, #360062, #B200FF);
     color: white;
     padding: 30px 0;
     margin-bottom: 30px;
@@ -132,7 +132,7 @@ header {
 }
 
 .section-title a {
-    color: #e60023;
+    color: #0058D4;
     text-decoration: none;
     font-weight: 500;
 }
@@ -239,7 +239,7 @@ header {
 }
 
 .footer-section h3 {
-    color: #e60023;
+    color: #0058D4;
     margin-bottom: 15px;
 }
 
